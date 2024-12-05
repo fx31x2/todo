@@ -12,5 +12,6 @@ export default function Home() {
         <TodoList />
       </div>
     </div>
+   
   );
 }
